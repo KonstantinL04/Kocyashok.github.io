@@ -189,6 +189,9 @@ button {
     font-weight: 600;
     letter-spacing: .009em;
 }
+li a {
+    text-decoration: none;
+  }
 
 .feedback-adricle {
     text-align: start;
